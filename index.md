@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Our Kebun Baru
 description: An Isomer site of the Singapore Government
 image: /images/kb logo (colour).png
 permalink: /
