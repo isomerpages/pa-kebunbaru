@@ -7,21 +7,15 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Our Kebun Baru
-      background: /images/hero-banner.png
-      button: Hope collective
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      background: /images/landing page.PNG
       variant: center
+      dropdown:
+        title: welcome to our kebun baru
+        options:
+          - title: option 1
+            url: ""
+          - title: option 2
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
