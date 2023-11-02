@@ -16,10 +16,10 @@ sections:
       backgroundColor: gray
       size: md
       alignment: left
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Hope Collective
+      subtitle: building an inclusive society
+      id: infopic
+      button: Button Text
+      alt: Image alt text
 ---
