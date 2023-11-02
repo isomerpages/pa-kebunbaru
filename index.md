@@ -21,5 +21,6 @@ sections:
       subtitle: building an inclusive society
       id: infopic
       button: Button Text
+      image: /images/landing pagee.PNG
       alt: Image alt text
 ---
