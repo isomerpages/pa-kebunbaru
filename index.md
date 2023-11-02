@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/landing page.PNG
-      variant: center
+      background: /images/ideal drawing.PNG
+      variant: floating
       subtitle: A Caring Home for All Our Residents
       title: Our Kebun Baru
       button: welcome home! ^~^
