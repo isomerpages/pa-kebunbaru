@@ -1,8 +1,10 @@
 logo: /images/staging site logos.PNG
 links:
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: About Us
+    collection: example-folder
+  - title: Our Programmes
+    collection: example-folder
+  - title: Helping Those In Need
     collection: example-folder
   - title: Contact Us
     url: /contact-us/
