@@ -4,18 +4,18 @@ title: Our Kebun Baru
 description: An Isomer site of the Singapore Government
 image: /images/kb logo (colour).png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      background: /images/landing page.PNG
-      variant: center
-      dropdown:
-        title: welcome to our kebun baru
-        options:
-          - title: option 1
-            url: ""
-          - title: option 2
-            url: ""
+      background: /images/landing page 2.PNG
+      variant: floating
+      subtitle: welcome to our humble abode
+      title: Our Kebun Baru
+      button: hello!
+      url: go.gov.sg/kebunbarucc
+      backgroundColor: gray
+      size: md
+      alignment: left
   - infobar:
       title: Infobar title
       subtitle: Subtitle
