@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/ideal drawing.PNG
-      variant: floating
+      variant: center
       subtitle: A Caring Home for All Our Residents
       title: Our Kebun Baru
       button: welcome ! ^~^
