@@ -20,7 +20,11 @@ sections:
       title: Hope Collective
       subtitle: building an inclusive society
       id: infopic
-      button: Button Text
+      description: Is it possible to eliminate abject poverty, give hope to those born
+        with less, and providing solace to the lonely? This is our project on
+        such worthy endeavors.
+      button: learn more
+      url: https://wearehopecollective.com/about/
       image: /images/landing pagee.PNG
       alt: Image alt text
 ---
