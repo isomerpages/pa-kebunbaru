@@ -27,4 +27,15 @@ sections:
       url: https://wearehopecollective.com/about/
       image: /images/landing pagee.PNG
       alt: Image alt text
+  - infopic:
+      title: Volunteering Opportunities
+      subtitle: be a part of the family
+      id: infopic
+      description: We are constantly sourcing for new ideas, passion and energy to
+        build a better Kebun Baru. If you would like to contribute, please let
+        us know.
+      button: join us
+      url: go.gov.sg/kebunbarucc
+      image: /images/kebun baru landing page.PNG
+      alt: Image alt text
 ---
