@@ -7,11 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/landing page 2.PNG
+      background: /images/landing page.PNG
       variant: center
-      subtitle: welcome to our humble abode
+      subtitle: A Caring Home for All Our Residents
       title: Our Kebun Baru
-      button: hello!
+      button: welcome home! ^~^
       url: go.gov.sg/kebunbarucc
       backgroundColor: gray
       size: md
