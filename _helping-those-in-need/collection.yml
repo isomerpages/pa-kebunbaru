@@ -2,4 +2,5 @@ collections:
   helping-those-in-need:
     output: true
     order:
+      - Seniors.md
       - Youths.md
