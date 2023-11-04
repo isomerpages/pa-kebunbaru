@@ -2,6 +2,6 @@ collections:
   helping-those-in-need:
     output: true
     order:
-      - Families.md
-      - Seniors.md
       - Youth and Children.md
+      - Seniors.md
+      - Families.md
