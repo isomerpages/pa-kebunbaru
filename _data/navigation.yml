@@ -4,5 +4,11 @@ links:
     collection: about-us
   - title: Our Programmes
     collection: our-programmes
+  - title: Helping Those in need
+    collection: helping-those-in-need
+  - title: Healthier SG
+    collection: healthier-sg
+  - title: Volunteer
+    collection: volunteer
   - title: Contact Us
     url: /contact-us/
