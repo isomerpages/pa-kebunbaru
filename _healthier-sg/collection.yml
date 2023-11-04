@@ -1,4 +1,5 @@
 collections:
   healthier-sg:
     output: true
-    order: []
+    order:
+      - Our Exercise Groups.md
