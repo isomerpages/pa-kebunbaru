@@ -8,7 +8,9 @@ links:
     collection: helping-those-in-need
   - title: Healthier SG
     collection: healthier-sg
+  - title: Our Community
+    collection: our-community
   - title: Volunteer
-    url: /permalink
+    collection: volunteer
   - title: Contact Us
     url: /contact-us/
