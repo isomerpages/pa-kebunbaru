@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/landing page 2.PNG
+      background: /images/murals.jpg
       variant: center
       subtitle: A Caring Home for All Our Residents
       title: Our Kebun Baru
@@ -36,6 +36,6 @@ sections:
         us know.
       button: join us
       url: go.gov.sg/kebunbarucc
-      image: /images/kebun baru landing page.PNG
+      image: /images/kebun baru .PNG
       alt: Image alt text
 ---
