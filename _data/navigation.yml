@@ -2,7 +2,7 @@ logo: /images/staging site logos.PNG
 links:
   - title: About Us
     collection: about-us
-  - title: Events Recap
+  - title: Our Programmes
     collection: events-recap
   - title: Contact Us
     url: /contact-us/
