@@ -1,5 +1,5 @@
 collections:
-  healthier-sg:
+  healthiersg:
     output: true
     order:
       - Active Aging Centres.md
