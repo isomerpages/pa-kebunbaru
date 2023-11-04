@@ -1,5 +1,5 @@
 collections:
-  our-heritage:
+  about-us:
     output: true
     order:
       - Our Heritage.md
