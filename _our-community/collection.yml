@@ -2,4 +2,5 @@ collections:
   our-community:
     output: true
     order:
+      - Local Delights.md
       - Local Heroes.md
