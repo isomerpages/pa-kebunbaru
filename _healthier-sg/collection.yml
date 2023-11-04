@@ -2,4 +2,4 @@ collections:
   healthier-sg:
     output: true
     order:
-      - Our Exercise Groups.md
+      - Exercise Groups.md
