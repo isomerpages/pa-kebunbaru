@@ -2,9 +2,5 @@ logo: /images/staging site logos.PNG
 links:
   - title: About Us
     collection: our-heritage
-  - title: Our Programmes
-    collection: example-folder
-  - title: Helping Those In Need
-    collection: example-folder
   - title: Contact Us
     url: /contact-us/
