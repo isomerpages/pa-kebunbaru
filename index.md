@@ -36,6 +36,6 @@ sections:
         us know.
       button: join us
       url: go.gov.sg/kebunbarucc
-      image: /images/kebun baru .PNG
+      image: /images/kebun baru photo.PNG
       alt: Image alt text
 ---
