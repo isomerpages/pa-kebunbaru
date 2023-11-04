@@ -1,5 +1,5 @@
 collections:
-  events-recap:
+  our-programmes:
     output: true
     order:
       - Events Recap.md
