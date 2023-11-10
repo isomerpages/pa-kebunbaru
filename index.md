@@ -35,7 +35,7 @@ sections:
         build a better Kebun Baru. If you would like to contribute, please let
         us know.
       button: join us
-      url: go.gov.sg/kebunbarucc
+      url: https://go.gov.sg/kebunbarucc
       image: /images/Volunteers_painting_AKK_3.png
       alt: Image alt text
 ---
