@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/murals.jpg
+      background: /images/mural_page.PNG
       variant: center
       subtitle: A Caring Home for All Our Residents
       title: Our Kebun Baru
