@@ -25,7 +25,7 @@ sections:
         such worthy endeavors.
       button: learn more
       url: https://wearehopecollective.com/about/
-      image: /images/landing pagee.PNG
+      image: /images/Volunteer_painting_AKK.PNG
       alt: Image alt text
   - infopic:
       title: Volunteering Opportunities
@@ -36,6 +36,6 @@ sections:
         us know.
       button: join us
       url: go.gov.sg/kebunbarucc
-      image: /images/kebun baru photo.PNG
+      image: /images/Volunteers_painting_AKK_3.png
       alt: Image alt text
 ---
