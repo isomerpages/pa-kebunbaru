@@ -22,3 +22,4 @@ From there, head to Exit 3 and you can walk 2 minutes to Kebun Baru CC.
 
 
 
+![](/images/onemap_kbcc.PNG)
