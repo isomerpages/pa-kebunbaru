@@ -2,4 +2,5 @@ collections:
   volunteer:
     output: true
     order:
+      - Grassroots Organisations.md
       - Community Volunteer.md
