@@ -11,3 +11,5 @@ Residents’ Networks (RNs) are set up to promote neighbourliness, social cohesi
 By working closely with the government agencies and community partners, RNs help residents know one another better, seek to understand local needs, concerns, and aspirations, as well as help communicate government messages.
 
 Find out which RN your home resides in: 
+
+![](/images/RN_Infographics_summary.PNG)
