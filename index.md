@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/mural_page.PNG
       variant: center
-      subtitle: A Caring Home for All Our Residents
+      subtitle: A Caring and Inclusive Home for All Our Residents
       title: Our Kebun Baru
       button: welcome ! ^~^
       url: https://go.gov.sg/kebunbarucc
