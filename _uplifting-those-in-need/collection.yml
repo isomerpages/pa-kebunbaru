@@ -1,5 +1,5 @@
 collections:
-  helping-those-in-need:
+  uplifting-those-in-need:
     output: true
     order:
       - Youth and Children.md
