@@ -24,9 +24,11 @@ There are many GROs that you can volunteer with at Kebun Baru. They include:
 | Youth Network | insert text |
 | Residents' Networks | insert text |
 
-You may find out more about some of these committees [here](https://www.pa.gov.sg/our-network/grassroots-organisations/grassroots-organisations/).
+Find out more about some of these committees [here](https://www.pa.gov.sg/our-network/grassroots-organisations/grassroots-organisations/).
 
-Join us as a grassroots volunteer. 
+Join us as a grassroots volunteer by filling up this [Volunteer Registration Form](/files/Volunteer_Registration_Form__2023_.pdf). 
+
+You may e-mail the form to us at pa_kebunbarucc@pa.gov.sg or submit the form at our CC counter from 10am - 6pm (Mon - Sun, excluding PH). 
 
 ##### **Volunteering as a Community Volunteer**
 
