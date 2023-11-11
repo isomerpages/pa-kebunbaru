@@ -2,4 +2,5 @@ collections:
   our-community:
     output: true
     order:
+      - Be Our Volunteer.md
       - Local Stories.md
