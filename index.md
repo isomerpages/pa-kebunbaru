@@ -11,7 +11,7 @@ sections:
       variant: center
       subtitle: A Caring and Inclusive Home for All Our Residents
       title: Our Kebun Baru
-      button: welcome ! ^~^
+      button: Welcome to our home
       url: https://go.gov.sg/kebunbarucc
       backgroundColor: gray
       size: md
