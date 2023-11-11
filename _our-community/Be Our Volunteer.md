@@ -31,6 +31,3 @@ Join us as a grassroots volunteer by filling up this [Volunteer Registration For
 You may e-mail the form to us at pa_kebunbarucc@pa.gov.sg or submit the form at our CC counter from 10am - 6pm (Mon - Sun, excluding PH). 
 
 ##### **Volunteering as a Community Volunteer**
-
-
-
