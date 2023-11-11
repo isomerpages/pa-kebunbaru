@@ -2,5 +2,4 @@ collections:
   volunteer:
     output: true
     order:
-      - Grassroots Leader.md
       - Community Volunteer.md
