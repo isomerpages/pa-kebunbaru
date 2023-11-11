@@ -1,6 +1,6 @@
 ---
 title: Grassroots Organisations
 permalink: /volunteer/permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
