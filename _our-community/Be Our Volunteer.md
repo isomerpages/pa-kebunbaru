@@ -12,17 +12,17 @@ There are many GROs that you can volunteer with at Kebun Baru. They include:
 
 |  Grassroots Organisation |  Description | 
 | -------- | --------  | 
-| Active Ageing Committee   |  Champion active ageing through programmes that support seniors to stay healthy. 
-| Senior Citizens' Executive Committee | Organise activities to empower seniors to stay socially connected in the community.  | 
+| Active Ageing Committee   |  Champion active ageing through programmes that support seniors to  stay healthy. 
 | Community Club Management Committee | insert text |
 | Citizens' Consultative Committee | insert text |
 | Community Sports Network | insert text |
 | Community Emergency and Engagement Committee | insert text |
-| Malay Activity Executive Committee | insert text |
 | Indian Activity Executive Committee | insert text |
+| Malay Activity Executive Committee | insert text |
+| Residents' Networks | insert text |
+| Senior Citizens' Executive Committee | Organise activities to empower seniors to stay socially connected in the community.  | 
 | Women's Executive Committee | insert text |
 | Youth Network | insert text |
-| Residents' Networks | insert text |
 
 Find out more about some of these committees [here](https://www.pa.gov.sg/our-network/grassroots-organisations/grassroots-organisations/).
 
