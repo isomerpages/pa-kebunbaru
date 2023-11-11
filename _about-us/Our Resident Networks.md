@@ -12,4 +12,3 @@ By working closely with the government agencies and community partners, RNs help
 
 Find out which RN your home resides in: 
 
-![](/images/RN_Infographics_summary.PNG)
