@@ -12,17 +12,17 @@ There are many GROs that you can volunteer with at Kebun Baru. They include:
 
 |  Grassroots Organisation |  Description | 
 | -------- | --------  | 
-| Active Ageing Committee   |  Champion active ageing through programmes that support seniors to  stay healthy.  |
-| Community Club Management Committee | insert text |
-| Citizens' Consultative Committee | insert text |
-| Community Sports Network | insert text |
-| Community Emergency and Engagement Committee | insert text |
-| Indian Activity Executive Committee | insert text |
-| Malay Activity Executive Committee | insert text |
-| Residents' Networks | insert text |
-| Senior Citizens' Executive Committee | Organise activities to empower seniors to stay socially connected in the community.  | 
-| Women's Executive Committee | insert text |
-| Youth Network | insert text |
+| Active Ageing Committee   |  Champion active ageing through programmes that support seniors to lead active and healthy lives.  |
+| Community Club Management Committee | Help to manage the CC, planning and organising programmes to bring residents together.  |
+| Citizens' Consultative Committee | Plan and lead major grassroots activities within the constituency and oversee assistance programms and campaigns.|
+| Community Sports Network | Foster community bonding through a wide array of sports activities for residents to participate in. |
+| Community Emergency and Engagement Committee | Strengthen community resilience through emergency preparedness exercises and coordination of resources and response efforts.|
+| Indian Activity Executive Committee | Promote Indian participation and organise cultural, educational and recreational activities to promote harmonious relations. |
+| Malay Activity Executive Committee | Promote Malay participation and organise cultural, educational and recreational activities to promote harmonious relations. |
+| Residents' Networks | Promote neighbourliness, social cohesion and work closely with government agencies and community partners to help understand and meet local needs and aspirations, and to communicate government messages. |
+| Senior Citizens' Executive Committee | Organise activities to enrich life experiences of seniors and empower them to stay socially connected.  | 
+| Women's Executive Committee | Galvanise women to promote community bonding and create opportunities for engagement in community and national affairs. |
+| Youth Network | Developing programmes for youths, ranging from sports and recreation to culture, arts and community service. |
 
 Find out more about some of these committees [here](https://www.pa.gov.sg/our-network/grassroots-organisations/grassroots-organisations/).
 
