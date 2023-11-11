@@ -12,7 +12,7 @@ There are many GROs that you can volunteer with at Kebun Baru. They include:
 
 |  Grassroots Organisation |  Description | 
 | -------- | --------  | 
-| Active Ageing Committee   |  Champion active ageing through programmes that support seniors to  stay healthy. 
+| Active Ageing Committee   |  Champion active ageing through programmes that support seniors to  stay healthy.  |
 | Community Club Management Committee | insert text |
 | Citizens' Consultative Committee | insert text |
 | Community Sports Network | insert text |
