@@ -1,5 +1,5 @@
 collections:
-  uplifting-those-in-need:
+  social-causes:
     output: true
     order:
       - Youth and Children.md
