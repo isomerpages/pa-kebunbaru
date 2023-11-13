@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  our-programmes:
     output: true
     order:
       - Upcoming Events.md
