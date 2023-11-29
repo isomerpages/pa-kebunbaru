@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ### **Floorball** 
-
+![](/images/Floorball_Photo.jpg)
 
 Hosted by Kebun Baru Community Sports Network (CSN), there has been a floorball programme for children in Kebun Baru from less privileged backgrounds for the past few years. They are mentored and have the opportunity to represent Kebun Baru in floorball tournaments such as the Singapore Community Games. 
  
