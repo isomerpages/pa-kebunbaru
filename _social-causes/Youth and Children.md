@@ -18,6 +18,7 @@ To enquire, visit Kebun Baru CC or call Kebun Baru CC at 6457 7379 between 10am 
 
 ### **Peer Mentorship**
 ### 
+![](/images/Mentorship.JPG)
 
 Run by Cahaya Community, a registered charity that takes a holistic perspective towards the concept of social support, children and families from less priviledged backgrounds in Kebun Baru are supported to reach their boundless potentials. They have two main pillars, Inspire and Empower that drives their work as they adopt a family-centric and strengths-based approach to reach out to families. They provide academic and socioemotional aspects of the children through their mentorship programme, complemented with strengths-based extracurricular activities, ranging from sports to service-learning. 
 
