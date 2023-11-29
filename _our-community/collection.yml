@@ -2,5 +2,5 @@ collections:
   our-community:
     output: true
     order:
-      - Local Heroes.md
       - Volunteer With Us.md
+      - Local Heroes.md
