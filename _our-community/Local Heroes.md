@@ -1,6 +1,8 @@
 ---
 title: Local Heroes
 permalink: /our-community/localheroes/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+## **Local Heroes**
+
