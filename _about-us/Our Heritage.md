@@ -12,3 +12,9 @@ Our name **Kebun Baru** is adapted from former Kampong Kebun Baharu and means â€
 Kebun Baru strives to play a part in creating a happy, caring neighbourhood for our people to live together as one community. Our team of dedicated volunteers is committed to provide our residents with a range of activities all year round, bringing people and communities together.
 
 The revamped Kebun Baru Community Club was officially opened on 26 August 2018. It focuses on creating a caring and inclusive Kebun Baru community and features amenities for families and neighbours, such as lounge areas, rooftop barbecue pits, sports and pre-school facilities, and a senior care centre.
+
+Follow us on our social media channels for latest updates:
+* [Facebook - Our Kebun Baru](www.facebook.com/ourkebunbaru)
+* [Instagram - @ourkebunbaru](www.instagram.com/ourkebunbaru)
+* [Telegram Channel - Our Kebun Baru ](t.me/kebunbarucc)
+* [Tik Tok - @ourkebunbaru](www.tiktok.com/@ourkebunbaru)
