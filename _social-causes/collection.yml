@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Youth children test/.keep
-      - Youth and Children.md
       - Seniors.md
       - Families.md
