@@ -2,8 +2,6 @@ collections:
   social-causes:
     output: true
     order:
-      - Sustainability/Farmily.md
-      - Sustainability/.keep
       - Children and Youth/.keep
       - Children and Youth/Children Floorball.md
       - Children and Youth/Peer Mentorship.md
@@ -11,8 +9,10 @@ collections:
       - Seniors/.keep
       - Seniors/IDeAL@115.md
       - Seniors/Share A Pot.md
+      - Families/.keep
       - Families/Kebun Baru Void Deck Wifi Project.md
       - Families/Community Legal Clinic.md
-      - Families/.keep
       - Families/Onesimus Village.md
       - Families/Yellow Ribbon Community Project.md
+      - Sustainability/.keep
+      - Sustainability/Farmily.md
