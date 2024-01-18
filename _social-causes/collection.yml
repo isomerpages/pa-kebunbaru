@@ -2,10 +2,10 @@ collections:
   social-causes:
     output: true
     order:
-      - Children and Youth/River Academy.md
       - Children and Youth/.keep
       - Children and Youth/Children Floorball.md
       - Children and Youth/Peer Mentorship.md
+      - Children and Youth/River Academy.md
       - Children and Youth/TOUCH Young Arrows.md
       - Seniors/.keep
       - Seniors/IDeAL@115.md
