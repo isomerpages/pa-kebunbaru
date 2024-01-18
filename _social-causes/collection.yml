@@ -2,6 +2,7 @@ collections:
   social-causes:
     output: true
     order:
+      - Seniors/.keep
       - Children and Youth/.keep
       - Children and Youth/Children Floorball.md
       - Children and Youth/Peer Mentorship.md
