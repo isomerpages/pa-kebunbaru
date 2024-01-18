@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Children and Youth/.keep
-      - Children and Youth/TOUCH Young Arrows.md
       - Children and Youth/Children Floorball.md
       - Children and Youth/Peer Mentorship.md
+      - Children and Youth/TOUCH Young Arrows.md
       - Seniors/.keep
       - Seniors/IDeAL@115.md
       - Seniors/Share A Pot.md
