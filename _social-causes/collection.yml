@@ -2,6 +2,7 @@ collections:
   social-causes:
     output: true
     order:
+      - Seniors/Share A Pot.md
       - Seniors/IDeAL@115.md
       - Seniors/.keep
       - Children and Youth/.keep
