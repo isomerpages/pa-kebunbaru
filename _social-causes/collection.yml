@@ -2,6 +2,7 @@ collections:
   social-causes:
     output: true
     order:
+      - Youth children test/Youth and Children.md
       - Youth children test/.keep
       - Seniors.md
       - Families.md
