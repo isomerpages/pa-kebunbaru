@@ -2,7 +2,7 @@ collections:
   social-causes:
     output: true
     order:
-      - Children and Youth/Youth and Children.md
+      - Children and Youth/Children Floorball.md
       - Children and Youth/.keep
       - Seniors.md
       - Families.md
