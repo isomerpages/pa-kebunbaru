@@ -4,17 +4,4 @@ permalink: /ourheritage/
 description: ""
 variant: tiptap
 ---
-# **Welcome to Our Kebun Baru!**
-![](/images/our%20heritage%20image.PNG)
-
-Our name **Kebun Baru** is adapted from former Kampong Kebun Baharu and means “**New Garden**” in Malay. Living up to our name, we are a tranquil and thriving district bounded by a town park. Home to both public and private estates as well as an array of amenities, we are snugly located in the West of Ang Mo Kio. 
-
-Kebun Baru strives to play a part in creating a happy, caring neighbourhood for our people to live together as one community. Our team of dedicated volunteers is committed to provide our residents with a range of activities all year round, bringing people and communities together.
-
-The revamped Kebun Baru Community Club was officially opened on 26 August 2018. It focuses on creating a caring and inclusive Kebun Baru community and features amenities for families and neighbours, such as lounge areas, rooftop barbecue pits, sports and pre-school facilities, and a senior care centre.
-
-Follow us on our social media channels for latest updates:
-* [Facebook - Our Kebun Baru](www.facebook.com/ourkebunbaru)
-* [Instagram - @ourkebunbaru](www.instagram.com/ourkebunbaru)
-* [Telegram Channel - Our Kebun Baru ](t.me/kebunbarucc)
-* [Tik Tok - @ourkebunbaru](www.tiktok.com/@ourkebunbaru)
+<h1><strong>Welcome to Our Kebun Baru!</strong></h1><p>Our name <strong>Kebun Baru</strong> is adapted from former Kampong Kebun Baharu and means “<strong>New Garden</strong>” in Malay. Living up to our name, we are a tranquil and thriving district bounded by a town park. Home to both public and private estates as well as an array of amenities, we are snugly located in the West of Ang Mo Kio.</p><div class="isomer-image-wrapper"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/our%20heritage%20image.PNG"></div><p>Kebun Baru strives to play a part in creating a happy, caring neighbourhood for our people to live together as one community. Our team of dedicated volunteers is committed to provide our residents with a range of activities all year round, bringing people and communities together.</p><p>The revamped Kebun Baru Community Club was officially opened on 26 August 2018. It focuses on creating a caring and inclusive Kebun Baru community and features amenities for families and neighbours, such as lounge areas, rooftop barbecue pits, sports and pre-school facilities, and a senior care centre.</p><p>Follow us on our social media channels for latest updates:</p><ul data-tight="true" class="tight"><li><p><a href="www.facebook.com/ourkebunbaru" rel="noopener noreferrer nofollow" target="_blank">Facebook - Our Kebun Baru</a></p></li><li><p><a href="www.instagram.com/ourkebunbaru" rel="noopener noreferrer nofollow" target="_blank">Instagram - @ourkebunbaru</a></p></li><li><p><a href="t.me/kebunbarucc" rel="noopener noreferrer nofollow" target="_blank">Telegram Channel - Our Kebun Baru</a></p></li><li><p><a href="www.tiktok.com/@ourkebunbaru" rel="noopener noreferrer nofollow" target="_blank">Tik Tok - @ourkebunbaru</a></p></li></ul><p></p>
