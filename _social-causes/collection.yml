@@ -2,7 +2,7 @@ collections:
   social-causes:
     output: true
     order:
-      - Seniors/Seniors.md
+      - Seniors/IDeAL@115.md
       - Seniors/.keep
       - Children and Youth/.keep
       - Children and Youth/Children Floorball.md
