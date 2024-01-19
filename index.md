@@ -31,7 +31,7 @@ sections:
         with less, and providing solace to the lonely? This is our project on
         such worthy endeavors.
       button: learn more
-      url: https://wearehopecollective.com/about/
+      url: https://staging.dxm4smd2virsq.amplifyapp.com/helping-those-in-need/youths/
       image: /images/Volunteer_painting_AKK.PNG
       alt: Image alt text
   - infopic:
