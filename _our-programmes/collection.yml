@@ -2,6 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Upcoming Events/Upcoming Events.md
+      - Upcoming Events/Kebun Baru CNY Dinner 2024.md
       - Upcoming Events/.keep
       - Events Recap.md
