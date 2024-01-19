@@ -45,4 +45,39 @@ sections:
       url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer/
       image: /images/Volunteers_painting_AKK_3.png
       alt: Image alt text
+  - announcements:
+      title: Upcoming Events
+      id: announcements
+      subtitle: Events calendar
+      announcement_items:
+        - title: New Announcement
+          date: 19 January 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+  - resources:
+      title: LATEST UPDATES
+      subtitle: RESOURCE ROOM
+      id: resources
+  - textcards:
+      title: Follow Our Social Media
+      subtitle: be a part of our inner circle
+      id: textcards
+      cards:
+        - title: Facebook
+          description: event happenings, recaps, photos
+          linktext: Follow Us
+          url: https://www.facebook.com/OurKebunBaru/
+        - title: Instagram
+          description: all things fun, human interest stories
+          linktext: Follow Us
+          url: https://www.instagram.com/ourkebunbaru/
+        - title: Telegram
+          description: first hand news, polls
+          linktext: Follow Us
+          url: https://t.me/kebunbarucc
+        - title: Tiktok
+          description: our adventures in 10 to 15 seconds
+          linktext: Follow Us
+          url: ""
 ---
