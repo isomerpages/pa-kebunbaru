@@ -16,13 +16,6 @@ sections:
       backgroundColor: gray
       size: md
       alignment: left
-      key_highlights:
-        - title: Hope Collective
-          description: Social Causes in Kebun Baru
-          url: https://staging.dxm4smd2virsq.amplifyapp.com/helping-those-in-need/youths/
-        - title: upcoming activities
-          description: Come Join Us and Have Fun
-          url: https://staging.dxm4smd2virsq.amplifyapp.com/our-programmes/upcomingevents/
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
@@ -45,6 +38,10 @@ sections:
       url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer/
       image: /images/Volunteers_painting_AKK_3.png
       alt: Image alt text
+  - resources:
+      title: LATEST UPDATES
+      subtitle: RESOURCE ROOM
+      id: resources
   - announcements:
       title: Upcoming Events
       id: announcements
@@ -55,10 +52,6 @@ sections:
           announcement: Announcement content
           link_text: ""
           link_url: ""
-  - resources:
-      title: LATEST UPDATES
-      subtitle: RESOURCE ROOM
-      id: resources
   - textcards:
       title: Follow Our Social Media
       subtitle: be a part of our inner circle
@@ -73,11 +66,11 @@ sections:
           linktext: Follow Us
           url: https://www.instagram.com/ourkebunbaru/
         - title: Telegram
-          description: first hand news, polls
+          description: first hand news, partake in polls and quizzes
           linktext: Follow Us
           url: https://t.me/kebunbarucc
         - title: Tiktok
           description: our adventures in 10 to 15 seconds
           linktext: Follow Us
-          url: ""
+          url: https://tiktok.com/@ourkebunbaru
 ---
