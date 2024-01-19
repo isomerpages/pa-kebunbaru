@@ -12,10 +12,17 @@ sections:
       subtitle: A Caring and Inclusive Home for All Our Residents
       title: Our Kebun Baru
       button: Welcome to our home
-      url: https://go.gov.sg/kebunbarucc
+      url: https://staging.dxm4smd2virsq.amplifyapp.com/ourheritage/
       backgroundColor: gray
       size: md
       alignment: left
+      key_highlights:
+        - title: Hope Collective
+          description: Social Causes in Kebun Baru
+          url: https://staging.dxm4smd2virsq.amplifyapp.com/helping-those-in-need/youths/
+        - title: upcoming activities
+          description: Come Join Us and Have Fun
+          url: https://staging.dxm4smd2virsq.amplifyapp.com/our-programmes/upcomingevents/
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
