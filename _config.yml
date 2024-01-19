@@ -2,13 +2,13 @@ title: Our Kebun Baru
 url: https://kebunbaru.pa.gov.sg
 favicon: /images/kb logo (colour).png
 colors:
-  primary-color: "#f19734"
+  primary-color: "#e63742"
   secondary-color: "#e63742"
   media-colors:
     - title: media-color-one
       color: "#9bc55f"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#f19734"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
