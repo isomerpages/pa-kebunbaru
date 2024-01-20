@@ -59,5 +59,5 @@ sections:
           announcement: Join us for a night of fun-filled performances and yummy dinner
             while celebrating the last day of Chinese New Year.
           link_text: More Information Here
-          link_url: https://staging.dxm4smd2virsq.amplifyapp.com/our-programmes/upcomingevents/
+          link_url: https://staging.dxm4smd2virsq.amplifyapp.com/our-programmes/upcoming-events/cny2024
 ---
