@@ -2,6 +2,8 @@ collections:
   our-community:
     output: true
     order:
+      - Grassroots Organisations/Kebun Baru Community Emergency and Engagement
+        Committee.md
       - Grassroots Organisations/Kebun Baru Citizens' Consultative Committee.md
       - Grassroots Organisations/Kebun Baru Community Club Management
         Committee.md
