@@ -20,7 +20,7 @@ sections:
           url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer/
         - title: Stay Connected
           description: ""
-          url: ""
+          url: https://staging.dxm4smd2virsq.amplifyapp.com/about-us/permalink/
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
