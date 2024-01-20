@@ -2,6 +2,8 @@ collections:
   our-community:
     output: true
     order:
+      - Grassroots Organisations/Kebun Baru Indian Activity Executive
+        Committee.md
       - Grassroots Organisations/Kebun Baru Malay Activity Executive Committee.md
       - Grassroots Organisations/Kebun Baru Community Sports Network.md
       - Grassroots Organisations/Kebun Baru Youth Network.md
