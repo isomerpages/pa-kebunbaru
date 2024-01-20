@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/mural_page.PNG
-      variant: center
+      variant: image
       url: https://staging.dxm4smd2virsq.amplifyapp.com/ourheritage/
       backgroundColor: gray
       size: md
