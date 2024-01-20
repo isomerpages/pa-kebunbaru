@@ -39,7 +39,7 @@ sections:
       description: We are constantly sourcing for new ideas, passion and energy to
         build a better Kebun Baru. If you would like to contribute, please let
         us know.
-      button: join us
+      button: learn more
       url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer/
       image: /images/Volunteers_painting_AKK_3.png
       alt: Image alt text
@@ -52,12 +52,12 @@ sections:
           date: 04 February 2024
           announcement: Celebrate Pongal with your estate neighbours at Block 112 Ang Mo
             Kio Avenue 4.
-          link_text: Purchase tickets here
+          link_text: Get Your Tickets Here
           link_url: https://www.onepa.gov.sg/events/pongal-celebrations-at-kebun-baru-view-04-feb-2024-17440579
         - title: Kebun Baru CNY
           date: 24 February 2024
           announcement: Join us for a night of fun-filled performances and yummy dinner
             while celebrating the last day of Chinese New Year.
-          link_text: More information here
+          link_text: More Information Here
           link_url: https://staging.dxm4smd2virsq.amplifyapp.com/our-programmes/upcomingevents/
 ---
