@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Social Media.md
       - Our Heritage.md
       - Grassroots Adviser Message.md
       - Getting to Us.md
