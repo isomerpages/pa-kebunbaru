@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/mural_page.PNG
       variant: center
-      subtitle: A Caring and Inclusive Home for All Our Residents
-      title: Our Kebun Baru
-      button: Welcome to our home
       url: https://staging.dxm4smd2virsq.amplifyapp.com/ourheritage/
       backgroundColor: gray
       size: md
