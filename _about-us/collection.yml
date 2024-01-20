@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Grassroots Adviser Message.md
       - Our Heritage.md
+      - Grassroots Adviser Message.md
       - Getting to Us.md
