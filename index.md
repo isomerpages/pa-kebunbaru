@@ -18,6 +18,9 @@ sections:
         - title: Get Involved
           description: ""
           url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer/
+        - title: Stay Connected
+          description: ""
+          url: ""
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
@@ -40,10 +43,6 @@ sections:
       url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer/
       image: /images/Volunteers_painting_AKK_3.png
       alt: Image alt text
-  - resources:
-      title: LATEST UPDATES
-      subtitle: RESOURCE ROOM
-      id: resources
   - announcements:
       title: Upcoming Events
       id: announcements
@@ -51,8 +50,8 @@ sections:
       announcement_items:
         - title: Pongal Celebrations at Kebun Baru View RN
           date: 04 February 2024
-          announcement: "Celebrate Pongal with your estate neighbours at Block 112 Ang Mo
-            Kio Avenue 4. "
+          announcement: Celebrate Pongal with your estate neighbours at Block 112 Ang Mo
+            Kio Avenue 4.
           link_text: Purchase tickets here
           link_url: https://www.onepa.gov.sg/events/pongal-celebrations-at-kebun-baru-view-04-feb-2024-17440579
         - title: Kebun Baru CNY
