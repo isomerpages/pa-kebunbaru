@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Events Recap/December 2023.md
       - Events Recap/Active Ageing Carnival.md
       - Events Recap/ChatGPT Workshop.md
       - Events Recap/Christmas Wonderland in Kebun Baru.md
