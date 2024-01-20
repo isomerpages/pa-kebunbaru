@@ -17,10 +17,10 @@ sections:
       key_highlights:
         - title: Get Involved
           description: ""
-          url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer/
+          url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer-with-us/
         - title: Stay Connected
           description: ""
-          url: https://staging.dxm4smd2virsq.amplifyapp.com/about-us/permalink/
+          url: https://staging.dxm4smd2virsq.amplifyapp.com/about-us/our-social-media-channels/
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
