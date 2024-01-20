@@ -2,7 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
-      - Quarterly Newsletters.md
+      - Newsletters.md
       - Events Recap/January 2024.md
       - Events Recap/December 2023.md
       - Events Recap/.keep
