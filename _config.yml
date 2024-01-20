@@ -53,7 +53,7 @@ staging: https://staging.dxm4smd2virsq.amplifyapp.com
 prod: https://master.dxm4smd2virsq.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/kb logo (colour).png
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: our-kebun-baru
