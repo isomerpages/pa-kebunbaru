@@ -2,16 +2,17 @@ collections:
   our-community:
     output: true
     order:
-      - Grassroots Organisations/.keep
-      - Grassroots Organisations/Resident Networks.md
-      - Grassroots Organisations/Citizens' Consultative Committee.md
-      - Grassroots Organisations/Community Club Management Committee.md
-      - Grassroots Organisations/Active Ageing Committee.md
-      - Grassroots Organisations/Senior Citizens' Executive Committee.md
-      - Grassroots Organisations/Women's Executive Committee.md
-      - Grassroots Organisations/Community Sports Network.md
-      - Grassroots Organisations/Youth Network.md
-      - Grassroots Organisations/Community Emergency and Engagement Committee.md
-      - Grassroots Organisations/Indian Activity Executive Committee.md
-      - Grassroots Organisations/Malay Activity Executive Committee.md
+      - Our Grassroots Organisations/.keep
+      - Our Grassroots Organisations/Resident Networks.md
+      - Our Grassroots Organisations/Citizens' Consultative Committee.md
+      - Our Grassroots Organisations/Community Club Management Committee.md
+      - Our Grassroots Organisations/Active Ageing Committee.md
+      - Our Grassroots Organisations/Senior Citizens' Executive Committee.md
+      - Our Grassroots Organisations/Women's Executive Committee.md
+      - Our Grassroots Organisations/Community Sports Network.md
+      - Our Grassroots Organisations/Youth Network.md
+      - Our Grassroots Organisations/Community Emergency and Engagement
+        Committee.md
+      - Our Grassroots Organisations/Indian Activity Executive Committee.md
+      - Our Grassroots Organisations/Malay Activity Executive Committee.md
       - Volunteer With Us.md
