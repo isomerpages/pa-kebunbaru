@@ -29,7 +29,7 @@ sections:
         with less, and providing solace to the lonely? This is our project on
         such worthy endeavors.
       button: learn more
-      url: https://staging.dxm4smd2virsq.amplifyapp.com/helping-those-in-need/youths/
+      url: https://staging.dxm4smd2virsq.amplifyapp.com/social-causes/children-and-youths/
       image: /images/Volunteer_painting_AKK.PNG
       alt: Image alt text
   - infopic:
@@ -40,7 +40,7 @@ sections:
         build a better Kebun Baru. If you would like to contribute, please let
         us know.
       button: learn more
-      url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer/
+      url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer-with-us/
       image: /images/Volunteers_painting_AKK_3.png
       alt: Image alt text
   - announcements:
