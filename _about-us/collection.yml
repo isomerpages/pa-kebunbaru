@@ -2,7 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Grassroots Organisations/Our Resident Networks.md
-      - Grassroots Organisations/.keep
       - Our Heritage.md
       - Getting to Us.md
