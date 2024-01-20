@@ -14,6 +14,10 @@ sections:
       size: md
       alignment: left
       title: Our Kebun Baru
+      key_highlights:
+        - title: Get Involved
+          description: ""
+          url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer/
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
@@ -45,30 +49,10 @@ sections:
       id: announcements
       subtitle: Events calendar
       announcement_items:
-        - title: New Announcement
-          date: 19 January 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-  - textcards:
-      title: Follow Our Social Media
-      subtitle: be a part of our inner circle
-      id: textcards
-      cards:
-        - title: Facebook
-          description: event happenings, recaps, photos
-          linktext: Follow Us
-          url: https://www.facebook.com/OurKebunBaru/
-        - title: Instagram
-          description: all things fun, human interest stories
-          linktext: Follow Us
-          url: https://www.instagram.com/ourkebunbaru/
-        - title: Telegram
-          description: first hand news, partake in polls and quizzes
-          linktext: Follow Us
-          url: https://t.me/kebunbarucc
-        - title: Tiktok
-          description: our adventures in 10 to 15 seconds
-          linktext: Follow Us
-          url: https://tiktok.com/@ourkebunbaru
+        - title: Kebun Baru CNY
+          date: 24 February 2024
+          announcement: "Join us for a night of fun-filled performances and yummy dinner
+            while celebrating the last day of Chinese New Year. "
+          link_text: Click for more information
+          link_url: https://staging.dxm4smd2virsq.amplifyapp.com/our-programmes/upcomingevents/
 ---
