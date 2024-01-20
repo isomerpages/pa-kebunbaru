@@ -53,6 +53,6 @@ sections:
           date: 24 February 2024
           announcement: "Join us for a night of fun-filled performances and yummy dinner
             while celebrating the last day of Chinese New Year. "
-          link_text: Click for more information
+          link_text: Click here for more information
           link_url: https://staging.dxm4smd2virsq.amplifyapp.com/our-programmes/upcomingevents/
 ---
