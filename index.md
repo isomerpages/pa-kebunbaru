@@ -44,7 +44,7 @@ sections:
       image: /images/Volunteers_painting_AKK_3.png
       alt: Image alt text
   - announcements:
-      title: Some Upcoming Events
+      title: Upcoming Events
       id: announcements
       subtitle: Events calendar
       announcement_items:
