@@ -13,6 +13,7 @@ sections:
       backgroundColor: gray
       size: md
       alignment: left
+      title: Our Kebun Baru
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
