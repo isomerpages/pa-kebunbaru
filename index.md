@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/mural_page.PNG
+      background: /images/website_landing_page__2_.png
       variant: image
       url: https://staging.dxm4smd2virsq.amplifyapp.com/ourheritage/
       backgroundColor: gray
