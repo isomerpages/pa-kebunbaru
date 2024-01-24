@@ -30,7 +30,7 @@ sections:
         such worthy endeavors.
       button: our social causes
       url: https://staging.dxm4smd2virsq.amplifyapp.com/social-causes/children-and-youths/
-      image: /images/Volunteer_painting_AKK.PNG
+      image: /images/hope_collective.png
       alt: Image alt text
   - infopic:
       title: Volunteering Opportunities
