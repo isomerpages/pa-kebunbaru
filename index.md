@@ -28,7 +28,7 @@ sections:
       description: Is it possible to eliminate abject poverty, give hope to those born
         with less, and providing solace to the lonely? This is our project on
         such worthy endeavors.
-      button: learn more
+      button: our social causes
       url: https://staging.dxm4smd2virsq.amplifyapp.com/social-causes/children-and-youths/
       image: /images/Volunteer_painting_AKK.PNG
       alt: Image alt text
