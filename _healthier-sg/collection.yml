@@ -2,5 +2,6 @@ collections:
   healthier-sg:
     output: true
     order:
+      - Exercise Groups.md
       - Active Aging Centres.md
       - Activities.md
