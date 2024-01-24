@@ -1,0 +1,7 @@
+---
+title: Grassroots Adviser's Message
+permalink: /about-us/grassroots-adviser-message/
+variant: tiptap
+description: ""
+---
+<h3><strong>Message from Our Grassroots Adviser</strong></h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adviser_Message.PNG"></div><p>Dear Residents and Friends of Our Kebun Baru,</p><p>It is with great excitement and pride that we witness the launch of our website, dedicated to showcasing the incredible progress and positive impact we've achieved together in the Kebun Baru estate. As your Grassroots Adviser, I assure you that I will continue to work hand-in-hand with the community to implement initiatives that enhance the quality of life for all in our beloved neighborhood. From empowering local communities to fostering a sense of unity and inclusivity, our website will serve as a vibrant platform to highlight the remarkable journey we've undertaken as a community. We invite you to explore this digital space, where the stories of resilience, collaboration, and positive change unfold, reflecting the true spirit of Kebun Baru.</p><p>We look forward to your presence on our website and hope it becomes a source of inspiration and pride for each and every resident of Kebun Baru.</p><p>Warmest Regards,</p><p>Henry Kwek</p><p></p>

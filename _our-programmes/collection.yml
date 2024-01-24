@@ -1,0 +1,11 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - Upcoming Events/.keep
+      - Upcoming Events/Chingay 2024.md
+      - Upcoming Events/Kebun Baru CNY Dinner 2024.md
+      - Events Recap/.keep
+      - Events Recap/January 2024.md
+      - Events Recap/December 2023.md
+      - Newsletters.md
