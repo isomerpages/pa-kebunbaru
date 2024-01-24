@@ -41,7 +41,7 @@ sections:
         us know.
       button: learn more
       url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer-with-us/
-      image: /images/Volunteers_painting_AKK_3.png
+      image: /images/volunteer_page.png
       alt: Image alt text
   - announcements:
       title: Upcoming Events
