@@ -4,34 +4,4 @@ permalink: /healthier-sg/aac/
 variant: tiptap
 description: ""
 ---
-### **Active Ageing Centres in Kebun Baru**
-
-Active Ageing Centres (AACs) provide a suite of services such as activities and befriending services to keep seniors engaged within the community, referrals for Care services and assistance with social and lifestyle recommendations in adherence to health plans.
-
-Applicants for AACs may need to fulfil the services’ eligibility criteria and providers’ service boundaries, if any, and enrolments are subject to availability of vacancies.
-
-Below is a list of AACs in Kebun Baru. 
-
-##### AWWA Active Ageing Centre
-
-| Address |  | Block 123 Ang Mo Kio Ave 6, #01-4011, Singapore 560123 |
-| -------- | -------- | -------- |
-| Contact     |      | 65116690     |
-| Email     |      | refer2comnet@amkfsc.org.sg  | 
-| Operating Hours     |      | Mon to Fri: 8.30am - 5.30pm  |
-
-##### MWS Active Ageing Centre - Kebun Baru
-
-| Address |  | Block 180 Ang Mo Kio Ave 5, #01-2980, Singapore 560180 |
-| -------- | -------- | -------- |
-| Contact     |      | 62384136     |
-| Email     |      | mwsaackb@mws.sg  | 
-| Operating Hours     |      | Mon to Fri: 9.00am - 6.00pm  |
-
-##### THK AAC @ AMK 257
-
-| Address |  | Block 257 Ang Mo Kio Ave 4, #01-67, 560257 |
-| -------- | -------- | -------- |
-| Contact     |      | 64714270     |
-| Email     |      | susanpak@thkmc.org.sg  | 
-| Operating Hours     |      | Mon to Fri: 8.30am - 5.30pm, Sat: 8.30am - 12.30pm  |
+<h3><strong>Active Ageing Centres in Kebun Baru</strong></h3><p>Active Ageing Centres (AACs) provide a suite of services such as activities and befriending services to keep seniors engaged within the community, referrals for Care services and assistance with social and lifestyle recommendations in adherence to health plans.</p><p>Applicants for AACs may need to fulfil the services’ eligibility criteria and providers’ service boundaries, if any, and enrolments are subject to availability of vacancies.</p><p>Below is a list of AACs in Kebun Baru.</p><h5>AWWA Active Ageing Centre</h5><table><tbody><tr><th rowspan="1" colspan="1"><p>Address</p></th><th rowspan="1" colspan="1"><p>Block 123 Ang Mo Kio Ave 6, #01-4011, Singapore 560123</p></th></tr><tr><td rowspan="1" colspan="1"><p>Contact</p></td><td rowspan="1" colspan="1"><p>65116690</p></td></tr><tr><td rowspan="1" colspan="1"><p>Email</p></td><td rowspan="1" colspan="1"><p>refer2comnet@amkfsc.org.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operating Hours</p></td><td rowspan="1" colspan="1"><p>Mon to Fri: 8.30am - 5.30pm</p></td></tr></tbody></table><p>Find out more at their website <a href="https://www.awwa.org.sg/our-services/seniors/active-ageing-centre/" rel="noopener noreferrer nofollow" target="_blank">here</a>. </p><h5>MWS Active Ageing Centre - Kebun Baru</h5><table><tbody><tr><th rowspan="1" colspan="1"><p>Address</p></th><th rowspan="1" colspan="1"><p>Block 180 Ang Mo Kio Ave 5, #01-2980, Singapore 560180</p></th></tr><tr><td rowspan="1" colspan="1"><p>Contact</p></td><td rowspan="1" colspan="1"><p>62384136</p></td></tr><tr><td rowspan="1" colspan="1"><p>Email</p></td><td rowspan="1" colspan="1"><p>mwsaackb@mws.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operating Hours</p></td><td rowspan="1" colspan="1"><p>Mon to Fri: 9.00am - 6.00pm</p></td></tr></tbody></table><p>Find out more at their website <a href="https://mws.sg/centre-location/mws-active-ageing-centre-kebun-baru/" rel="noopener noreferrer nofollow" target="_blank">here</a>. </p><h5>THK AAC @ AMK 257</h5><table><tbody><tr><th rowspan="1" colspan="1"><p>Address</p></th><th rowspan="1" colspan="1"><p>Block 257 Ang Mo Kio Ave 4, #01-67, 560257</p></th></tr><tr><td rowspan="1" colspan="1"><p>Contact</p></td><td rowspan="1" colspan="1"><p>64714270</p></td></tr><tr><td rowspan="1" colspan="1"><p>Email</p></td><td rowspan="1" colspan="1"><p>susanpak@thkmc.org.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operating Hours</p></td><td rowspan="1" colspan="1"><p>Mon to Fri: 8.30am - 5.30pm, Sat: 8.30am - 12.30pm</p></td></tr></tbody></table><p></p>
