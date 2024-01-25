@@ -43,6 +43,17 @@ sections:
       url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer-with-us/
       image: /images/volunteer_page.png
       alt: Image alt text
+  - infopic:
+      title: Finding My Way Home
+      subtitle: "2024 local highlight #1"
+      id: infopic
+      description: Kebun Baru is committed to build a dementia-friendly community in
+        our estate. Here's a coverage about the inclusive initiatives we have
+        implemented.
+      button: learn more
+      url: https://staging-lite.d7k6vm4sk9o2o.amplifyapp.com/our-community/dementia-friendly-town/
+      image: /images/dementia_project.PNG
+      alt: Image alt text
   - announcements:
       title: Upcoming Events
       id: announcements
