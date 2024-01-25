@@ -4,7 +4,7 @@ permalink: /healthier-sg/hpb-activities/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Healthy365 Activities in the Estate</strong></h3>
+<h3><strong>Healthy365 Exercise Groups</strong></h3>
 <div class="isomer-image-wrapper">
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/exercise_group.png">
 </div>
