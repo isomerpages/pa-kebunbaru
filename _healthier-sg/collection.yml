@@ -2,6 +2,5 @@ collections:
   healthier-sg:
     output: true
     order:
-      - CC & RN Exercise Groups.md
       - Exercise Groups.md
       - Active Aging Centres.md
