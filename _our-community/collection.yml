@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Quarterly Features/Dementia Friendly Town.md
       - Quarterly Features/.keep
       - Our Grassroots Organisations/.keep
       - Our Grassroots Organisations/Resident Networks.md
