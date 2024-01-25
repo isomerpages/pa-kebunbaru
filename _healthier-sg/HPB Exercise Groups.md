@@ -4,11 +4,18 @@ permalink: /healthier-sg/hpb-activities/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Healthy365 Exercise Groups</strong></h3>
+<h3><strong>Exercise Groups in Kebun Baru</strong></h3>
+<p>There are various exercise sessions and groups around our estate, read
+    on to find one that you would like to participate in!</p>
+<hr>
+<h4><strong>Healthy365 Exercise Groups</strong></h4>
+<p>These are exercise sessions conducted in the neighbourhood by the Health
+    Promotion Board (HPB). For bookings and more information, refer to the
+    <a href="https://www.healthhub.sg/programmes/healthyliving" rel="noopener noreferrer nofollow" target="_blank">Healthy365 app</a>.</p>
 <div class="isomer-image-wrapper">
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/exercise_group.png">
 </div>
-<p>For booking and more information, refer to the <a href="https://www.healthhub.sg/programmes/healthyliving" rel="noopener noreferrer nofollow" target="_blank">Healthy365 app</a>.</p>
+<p></p>
 <h4>Chair Zumba</h4>
 <table>
     <tbody>
