@@ -2,8 +2,6 @@ collections:
   our-community:
     output: true
     order:
-      - Local Highlights/Dementia Friendly Town.md
-      - Local Highlights/.keep
       - Our Grassroots Organisations/.keep
       - Our Grassroots Organisations/Resident Networks.md
       - Our Grassroots Organisations/Citizens' Consultative Committee.md
@@ -17,4 +15,6 @@ collections:
         Committee.md
       - Our Grassroots Organisations/Indian Activity Executive Committee.md
       - Our Grassroots Organisations/Malay Activity Executive Committee.md
+      - Local Highlights/.keep
+      - Local Highlights/Dementia Friendly Town.md
       - Volunteer With Us.md
