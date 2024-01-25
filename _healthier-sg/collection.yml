@@ -2,7 +2,7 @@ collections:
   healthier-sg:
     output: true
     order:
-      - Active Aging Centres.md
       - CC & RN Activities.md
       - HPB Activities.md
       - Exercise Groups.md
+      - Active Aging Centres.md
