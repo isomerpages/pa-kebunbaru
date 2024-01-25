@@ -52,7 +52,7 @@ sections:
         implemented.
       button: learn more
       url: https://staging-lite.d7k6vm4sk9o2o.amplifyapp.com/our-community/dementia-friendly-town/
-      image: /images/dementia_project.PNG
+      image: /images/dementia_initiative.png
       alt: Image alt text
   - announcements:
       title: Upcoming Events
