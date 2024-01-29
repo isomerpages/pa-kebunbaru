@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Children and Youth
 ---
-<h3></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hope_collective_banner.PNG">
 </div>
