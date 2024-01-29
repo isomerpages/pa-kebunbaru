@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Seniors
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hope_collective_banner.PNG">
+</div>
 <h3><strong>Project Phileo</strong></h3>
 <p>Project Phileo is a seniors’ befriending project that serves isolated
 seniors and seniors who are living alone without any social or family support
