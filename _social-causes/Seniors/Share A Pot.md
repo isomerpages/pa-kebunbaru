@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Seniors
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hope_collective_banner.PNG">
+</div>
 <h3><strong>Share-A-Pot</strong></h3>
 <p>Share-a-Pot is a monthly activity that hopes to improve the nutrition
 and health of seniors.&nbsp;It combines both nutritious meals and physical
