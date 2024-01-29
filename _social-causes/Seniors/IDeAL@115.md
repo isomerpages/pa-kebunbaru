@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Seniors
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hope_collective_banner.PNG">
+</div>
 <h3><strong>IDeAL@115</strong></h3>
 <p>IDeAL@115 - which stands for the Integrated Dementia (Home-based) Assisted
 Living Project - is located at Block 115 Ang Mo Kio Avenue 4. The block
