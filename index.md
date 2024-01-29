@@ -65,10 +65,10 @@ sections:
             Kio Avenue 4.
           link_text: Get Your Tickets Here
           link_url: https://www.onepa.gov.sg/events/pongal-celebrations-at-kebun-baru-view-04-feb-2024-17440579
-        - title: Kebun Baru CNY
+        - title: Kebun Baru Chinese New Year Dinner
           date: 24 February 2024
           announcement: Join us for a night of fun-filled performances and yummy dinner
             while celebrating the last day of Chinese New Year.
           link_text: More Information Here
-          link_url: https://staging.dxm4smd2virsq.amplifyapp.com/our-programmes/upcoming-events/cny2024
+          link_url: https://staging-lite.d7k6vm4sk9o2o.amplifyapp.com/our-programmes/upcoming-events/
 ---
