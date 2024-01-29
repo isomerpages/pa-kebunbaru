@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Families
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hope_collective_banner.PNG">
+</div>
 <h3><strong>Kebun Baru Void Deck Wifi Project</strong></h3>
 <p>The Kebun Baru Void Deck Wifi Project is a pilot programme launched by
 Beyond Social Services to help bridge the digital divide in Singapore.&nbsp;</p>
