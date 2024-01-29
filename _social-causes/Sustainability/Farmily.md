@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Sustainability
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hope_collective_banner.PNG">
+</div>
 <h3><strong>Farmily</strong></h3>
 <p>Farmily 家和农 is a social enterprise that aims to create a harmonious balance
 between nature and humankind. They work together with Kebun Baru often
