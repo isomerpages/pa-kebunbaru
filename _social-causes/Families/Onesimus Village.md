@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Families
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hope_collective_banner.PNG">
+</div>
 <h3><strong>Onesimus Village@113</strong></h3>
 <p>Onesimus Village@113, a project run by volunteers from Salem Welfare Services,
 is located at Block 113 Ang Mo Kio Avenue 4. It aims to provide a space
