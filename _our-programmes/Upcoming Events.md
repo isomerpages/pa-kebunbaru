@@ -1,0 +1,36 @@
+---
+title: Upcoming Events
+permalink: /our-programmes/upcoming-events/
+variant: tiptap
+description: ""
+---
+<h4><strong>Kebun Baru View RN &amp; IAEC Pongal Celebrations</strong></h4>
+<p><strong>4 February 2024</strong>
+</p>
+<p>Join us in celebrating the harvest season with joy and traditions at our
+Pongal Celebration! Let's come together for festive fun, cultural vibes,
+and a potful of happiness! Scan QR code or click <a href="https://www.onepa.gov.sg/events/pongal-celebrations-at-kebun-baru-view-04-feb-2024-17440579" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal_photo_clear.jpg">
+</div>
+<h4><strong>Kebun Baru Chinese New Year Dinner 2024</strong></h4>
+<p><strong>24 February 2024</strong>
+</p>
+<p>Join us for a night of cultural performances and dinner on 24th Feb 2024.
+You may purchase tickets at Kebun Baru Community Club or call 64577379
+for more information.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CNY_2024_Poster.png">
+</div>
+<h4><strong>Chingay 2024</strong></h4>
+<p><strong>24 February 2024</strong>
+</p>
+<p>Chingay is back for their 2024 with a Blossom theme. Look forward to exciting
+performances and exhibitions at the F1 building site. Get your tickets
+from <a href="http://sistic.com.sg" rel="noopener noreferrer nofollow" target="_blank">sistic.com.sg</a> or
+63485555.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Chingay_2024_Poster.jpg">
+</div>
+<p></p>

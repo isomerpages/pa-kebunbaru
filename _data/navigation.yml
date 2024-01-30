@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/website_logo.png
 links:
+  - title: About Us
+    collection: about-us
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Social Causes
+    collection: social-causes
+  - title: Healthier SG
+    collection: healthier-sg
+  - title: Our Community
+    collection: our-community
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

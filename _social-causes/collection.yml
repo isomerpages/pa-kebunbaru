@@ -1,0 +1,21 @@
+collections:
+  social-causes:
+    output: true
+    order:
+      - Children and Youth/.keep
+      - Children and Youth/Children Floorball.md
+      - Children and Youth/Peer Mentorship.md
+      - Children and Youth/River Academy.md
+      - Children and Youth/TOUCH Young Arrows.md
+      - Seniors/.keep
+      - Seniors/IDeAL@115.md
+      - Seniors/Project Phileo.md
+      - Seniors/Share A Pot.md
+      - Families/.keep
+      - Families/Community Legal Clinic.md
+      - Families/Void Deck Wifi Project.md
+      - Families/Onesimus Village.md
+      - Families/Yellow Ribbon Community Project.md
+      - Sustainability/.keep
+      - Sustainability/Community Repair Workshop.md
+      - Sustainability/Farmily.md

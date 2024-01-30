@@ -1,0 +1,20 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - Our Grassroots Organisations/.keep
+      - Our Grassroots Organisations/Resident Networks.md
+      - Our Grassroots Organisations/Citizens' Consultative Committee.md
+      - Our Grassroots Organisations/Community Club Management Committee.md
+      - Our Grassroots Organisations/Active Ageing Committee.md
+      - Our Grassroots Organisations/Senior Citizens' Executive Committee.md
+      - Our Grassroots Organisations/Women's Executive Committee.md
+      - Our Grassroots Organisations/Community Sports Network.md
+      - Our Grassroots Organisations/Youth Network.md
+      - Our Grassroots Organisations/Community Emergency and Engagement
+        Committee.md
+      - Our Grassroots Organisations/Indian Activity Executive Committee.md
+      - Our Grassroots Organisations/Malay Activity Executive Committee.md
+      - Local Highlights/.keep
+      - Local Highlights/Dementia Friendly Town.md
+      - Volunteer With Us.md
