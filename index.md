@@ -9,7 +9,6 @@ sections:
   - hero:
       background: /images/website_landing_page__1200_x_630_px___1_.png
       variant: image
-      url: https://kebunbaru.pa.gov.sg/ourheritage/
       backgroundColor: gray
       size: md
       alignment: left
@@ -17,10 +16,10 @@ sections:
       key_highlights:
         - title: Get Involved
           description: ""
-          url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer-with-us/
+          url: https://kebunbaru.pa.gov.sg/our-community/volunteer-with-us/
         - title: Stay Connected
           description: ""
-          url: https://staging.dxm4smd2virsq.amplifyapp.com/about-us/our-social-media-channels/
+          url: https://kebunbaru.pa.gov.sg/about-us/our-social-media-channels/
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
