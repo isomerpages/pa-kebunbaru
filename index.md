@@ -51,7 +51,7 @@ sections:
         our estate. Here's a coverage about the inclusive initiatives we have
         implemented.
       button: learn more
-      url: https://staging-lite.d7k6vm4sk9o2o.amplifyapp.com/our-community/dementia-friendly-town/
+      url: https://kebunbaru.pa.gov.sg/our-community/dementia-friendly-town/
       image: /images/dementia_video.png
       alt: Image alt text
   - announcements:
