@@ -70,5 +70,5 @@ sections:
           announcement: Join us for a night of fun-filled performances and yummy dinner
             while celebrating the last day of Chinese New Year.
           link_text: More Information Here
-          link_url: https://staging-lite.d7k6vm4sk9o2o.amplifyapp.com/our-programmes/upcoming-events/
+          link_url: https://kebunbaru.pa.gov.sg/our-programmes/upcoming-events/
 ---
