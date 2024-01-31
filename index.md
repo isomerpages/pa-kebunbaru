@@ -40,7 +40,7 @@ sections:
         build a better Kebun Baru. If you would like to contribute, please let
         us know.
       button: learn more
-      url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer-with-us/
+      url: https://kebunbaru.pa.gov.sg/our-community/volunteer-with-us/
       image: /images/volunteer_page.png
       alt: Image alt text
   - infopic:
