@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/website_landing_page__1200_x_630_px___1_.png
       variant: image
-      url: https://staging.dxm4smd2virsq.amplifyapp.com/ourheritage/
+      url: https://kebunbaru.pa.gov.sg/ourheritage/
       backgroundColor: gray
       size: md
       alignment: left
