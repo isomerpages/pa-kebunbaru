@@ -23,7 +23,7 @@ concerns, and aspirations, as well as help communicate government messages.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RNs_Infographics_4.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
