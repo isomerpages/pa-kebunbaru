@@ -29,7 +29,7 @@ sections:
         with less, and providing solace to the lonely? This is our project on
         such worthy endeavors.
       button: our social causes
-      url: https://staging.dxm4smd2virsq.amplifyapp.com/social-causes/children-and-youths/children-football/
+      url: https://kebunbaru.pa.gov.sg/social-causes/children-and-youths/children-football/
       image: /images/hope_collective.png
       alt: Image alt text
   - infopic:
