@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Get Involved
           description: ""
-          url: https://kebunbaru.pa.gov.sg/our-community/volunteer-with-us/
+          url: /our-community/volunteer-with-us/
         - title: Stay Connected
           description: ""
           url: https://kebunbaru.pa.gov.sg/about-us/our-social-media-channels/
