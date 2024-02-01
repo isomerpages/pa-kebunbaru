@@ -19,7 +19,7 @@ sections:
           url: /our-community/volunteer-with-us/
         - title: Stay Connected
           description: ""
-          url: https://kebunbaru.pa.gov.sg/about-us/our-social-media-channels/
+          url: /about-us/our-social-media-channels/
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
