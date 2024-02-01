@@ -1,7 +1,7 @@
 ---
 title: Community Legal Clinic
 permalink: /social-causes/families/community-legal-clinic/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Families
 ---
@@ -20,6 +20,7 @@ first Monday of the month, from 7pm to 9.30pm.</p>
 form at 216 Ang Mo Kio Avenue 4, Singapore 569897, from Monday to Sunday,
 between 10am to 6pm (excluding PH).</p>
 <div class="iframe-wrapper">
+<div style="text-align:center;">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cIZG_HpmxPE?si=ewlG01y_OJlfiwXc"></iframe>
 </div>
 <p></p>
@@ -28,4 +29,4 @@ between 10am to 6pm (excluding PH).</p>
 </div>
 <p>
 <br>
-</p>
+</p></div>

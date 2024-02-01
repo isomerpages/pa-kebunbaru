@@ -9,7 +9,6 @@ sections:
   - hero:
       background: /images/website_landing_page__1200_x_630_px___1_.png
       variant: image
-      url: https://staging.dxm4smd2virsq.amplifyapp.com/ourheritage/
       backgroundColor: gray
       size: md
       alignment: left
@@ -17,10 +16,10 @@ sections:
       key_highlights:
         - title: Get Involved
           description: ""
-          url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer-with-us/
+          url: /our-community/volunteer-with-us/
         - title: Stay Connected
           description: ""
-          url: https://staging.dxm4smd2virsq.amplifyapp.com/about-us/our-social-media-channels/
+          url: /about-us/our-social-media-channels/
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
@@ -29,7 +28,7 @@ sections:
         with less, and providing solace to the lonely? This is our project on
         such worthy endeavors.
       button: our social causes
-      url: https://staging.dxm4smd2virsq.amplifyapp.com/social-causes/children-and-youths/children-football/
+      url: https://kebunbaru.pa.gov.sg/social-causes/children-and-youths/children-football/
       image: /images/hope_collective.png
       alt: Image alt text
   - infopic:
@@ -40,7 +39,7 @@ sections:
         build a better Kebun Baru. If you would like to contribute, please let
         us know.
       button: learn more
-      url: https://staging.dxm4smd2virsq.amplifyapp.com/our-community/volunteer-with-us/
+      url: https://kebunbaru.pa.gov.sg/our-community/volunteer-with-us/
       image: /images/volunteer_page.png
       alt: Image alt text
   - infopic:
@@ -51,7 +50,7 @@ sections:
         our estate. Here's a coverage about the inclusive initiatives we have
         implemented.
       button: learn more
-      url: https://staging-lite.d7k6vm4sk9o2o.amplifyapp.com/our-community/dementia-friendly-town/
+      url: https://kebunbaru.pa.gov.sg/our-community/dementia-friendly-town/
       image: /images/dementia_video.png
       alt: Image alt text
   - announcements:
@@ -70,5 +69,5 @@ sections:
           announcement: Join us for a night of fun-filled performances and yummy dinner
             while celebrating the last day of Chinese New Year.
           link_text: More Information Here
-          link_url: https://staging-lite.d7k6vm4sk9o2o.amplifyapp.com/our-programmes/upcoming-events/
+          link_url: https://kebunbaru.pa.gov.sg/our-programmes/upcoming-events/
 ---

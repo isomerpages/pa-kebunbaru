@@ -1,7 +1,7 @@
 ---
 title: Children Floorball
 permalink: /social-causes/children-and-youths/children-football/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Children and Youth
 ---
@@ -47,7 +47,7 @@ Kebun Baru in floorball tournaments such as the Singapore Community Games.</p>
 </table>
 <p>To enquire, visit Kebun Baru CC or call Kebun Baru CC at 6457 7379 between
 10am to 6pm (excluding PH).</p>
-<div class="iframe-wrapper">
+<div class="iframe-wrapper"><div style="text-align:center;">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BNgimzZhAyI?si=Aym8nlvXgmUnPmJJ"></iframe>
 </div>
-<p></p>
+<p></p></div>
