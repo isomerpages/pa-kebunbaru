@@ -58,16 +58,10 @@ sections:
       id: announcements
       subtitle: Events calendar
       announcement_items:
-        - title: Pongal Celebrations at Kebun Baru View RN
-          date: 04 February 2024
-          announcement: Celebrate Pongal with your estate neighbours at Block 112 Ang Mo
-            Kio Avenue 4.
-          link_text: Get Your Tickets Here
-          link_url: https://www.onepa.gov.sg/events/pongal-celebrations-at-kebun-baru-view-04-feb-2024-17440579
-        - title: Kebun Baru Chinese New Year Dinner
-          date: 24 February 2024
-          announcement: Join us for a night of fun-filled performances and yummy dinner
-            while celebrating the last day of Chinese New Year.
-          link_text: More Information Here
-          link_url: https://kebunbaru.pa.gov.sg/our-programmes/upcoming-events/
+        - title: "Kebun Baru Post-Budget Dialogue "
+          date: 30 March 2024
+          announcement: Join us for a meaningful discussion on the announcements made at
+            our Post-Budget Dialogue with Grassroots Adviser to Kebun Baru.
+          link_text: Sign Up Here
+          link_url: https://www.onepa.gov.sg/events/kebun-baru-post-budget-dialogue-2024-73382672
 ---
