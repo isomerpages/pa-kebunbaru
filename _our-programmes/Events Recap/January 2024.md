@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Events Recap
 ---
-<h3><strong>Launch of CDC Vouchers 2024 </strong></h3>
+<h3><strong>Launch of CDC Vouchers 2024</strong></h3>
 <p>We kickstarted 2024 with the distribution of the Community Development
 Council (CDC) vouchers worth $500, that can be used for essential items
 and services, offering support to families.</p>
