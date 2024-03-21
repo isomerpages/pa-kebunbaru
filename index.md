@@ -64,10 +64,10 @@ sections:
             our Post-Budget Dialogue with Grassroots Adviser to Kebun Baru.
           link_text: Sign Up Here
           link_url: https://www.onepa.gov.sg/events/kebun-baru-post-budget-dialogue-2024-73382672
-        - title: Mandarin Parenting Talk
+        - title: Parenting Talk (Mandarin)
           date: 14 April 2024
-          announcement: "Join us at a talk designed to support you through the ups and
-            downs of early parenthood. "
+          announcement: Join us at a talk designed to support you through the ups and
+            downs of early parenthood.
           link_text: Sign Up Here
           link_url: Join a talk designed to support you through the ups and downs of early
             parenthood
