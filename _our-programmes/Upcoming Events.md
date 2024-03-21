@@ -9,7 +9,8 @@ description: ""
 </p>
 <p>Join us for a dialogue session to dive deeper into this year's budget
 statement announcements. Don't miss out on this opportunity to be informed
-and involved. Click <a href="go.gov.sg/kbpbd2024" rel="noopener noreferrer nofollow" target="_blank">here</a> to sign up now.</p>
+and involved. Click <a href="https://www.onepa.gov.sg/events/kebun-baru-post-budget-dialogue-2024-73382672" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+sign up now.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Post_Budget_Dialogue_Poster.jpg">
 </div>
