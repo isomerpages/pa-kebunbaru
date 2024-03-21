@@ -69,6 +69,5 @@ sections:
           announcement: Join us at a talk designed to support you through the ups and
             downs of early parenthood.
           link_text: Sign Up Here
-          link_url: Join a talk designed to support you through the ups and downs of early
-            parenthood
+          link_url: https://form.gov.sg/65ed5a53d31e7d0b531aad86
 ---
