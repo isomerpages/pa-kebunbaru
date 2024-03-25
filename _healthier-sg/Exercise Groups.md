@@ -189,7 +189,18 @@ intensity, focusing on balance, range of motion and coordination.</p>
 <p>Thursdays, 8pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blk 253 Ang Mo Kio St 21, 260 Pavilion</p>
+<p>Blk 253 Ang Mo Kio St 21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursdays, 8pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 260C Ang Mo Kio St 21</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Free</p>
