@@ -4,26 +4,28 @@ permalink: /our-programmes/upcoming-events/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Kebun Baru Post-Budget Dialogue 2024</strong></h4>
-<p><strong>30 March 2024</strong>
+<h4><strong>Kebun Baru Tamil New Year Celebrations 2024</strong></h4>
+<p><strong>20 April 2024</strong>
 </p>
-<p>Join us for a dialogue session to dive deeper into this year's budget
-statement announcements. Don't miss out on this opportunity to be informed
-and involved. Click <a href="https://www.onepa.gov.sg/events/kebun-baru-post-budget-dialogue-2024-73382672" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-sign up now.</p>
+<p>Happy Tamil New Year to all our friends and community members! 🎉✨ Join
+us in celebrating the rich culture and traditions of the Tamil community
+as we come together to welcome the new year with joy, unity, and a renewed
+sense of hope. Let's embrace the beauty of our heritage and create lasting
+memories as we mark this auspicious occasion. Sign up <a href="go.gov.sg/tny24" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Post_Budget_Dialogue_Poster.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tamil_new_year.png">
 </div>
-<h3><strong>Mandarin Parenting Talk</strong></h3>
-<p><strong>14 April 2024</strong>
+<h3><strong>Kebun Baru Hari Raya Celebrations 2024</strong></h3>
+<p><strong>27 April 2024 </strong>
 </p>
-<p>Are you a parent to young children and have concerns if you are doing
-this parenting thing “right”? Join a talk designed to support you through
-the ups and downs of early parenthood. Register now via link <a href="https://form.gov.sg/65ed5a53d31e7d0b531aad86" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-Don’t worry, you may bring your children along and there will be activities
-to keep them engaged.</p>
-<p>*Limited slots available on a first come first serve basis.</p>
+<p>Selamat Hari Raya! 🌙✨ Join us in commemorating the joyous occasion of
+Hari Raya as we come together to celebrate the spirit of togetherness,
+forgiveness, and gratitude. Let's embrace the warmth of this festive season,
+share in the blessings of love and peace, and create cherished memories
+with our loved ones. Get your tickets <a href="go.gov.sg/kbhariraya2024" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/parenting_talk.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAEC_Hari_Raya_Celebration___27_April_2024__1587_x_2245_px_.png">
 </div>
 <p></p>
