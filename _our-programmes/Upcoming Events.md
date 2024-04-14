@@ -17,7 +17,7 @@ memories as we mark this auspicious occasion. Sign up <a href="go.gov.sg/tny24" 
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tamil_new_year.png">
 </div>
 <h3><strong>Kebun Baru Hari Raya Celebrations 2024</strong></h3>
-<p><strong>27 April 2024 </strong>
+<p><strong>27 April 2024</strong>
 </p>
 <p>Selamat Hari Raya! 🌙✨ Join us in commemorating the joyous occasion of
 Hari Raya as we come together to celebrate the spirit of togetherness,
