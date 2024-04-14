@@ -58,16 +58,19 @@ sections:
       id: announcements
       subtitle: Events calendar
       announcement_items:
-        - title: Kebun Baru Post-Budget Dialogue
-          date: 30 March 2024
-          announcement: Join us for a meaningful discussion on the announcements made at
-            our Post-Budget Dialogue with Grassroots Adviser to Kebun Baru.
+        - title: Kebun Baru Tamil New Year Celebration
+          date: 20 April 2024
+          announcement: Join us in celebrating the rich culture and traditions of the
+            Tamil community as we come together to welcome the new year with
+            joy, unity, and a renewed sense of hope.
           link_text: Sign Up Here
-          link_url: https://www.onepa.gov.sg/events/kebun-baru-post-budget-dialogue-2024-73382672
-        - title: Parenting Talk (Mandarin)
-          date: 14 April 2024
-          announcement: Join us at a talk designed to support you through the ups and
-            downs of early parenthood.
+          link_url: go.gov.sg/tny24
+        - title: Kebun Baru Hari Raya Celebration
+          date: 27 April 2024
+          announcement: Join us in commemorating the joyous occasion of Hari Raya as we
+            come together to celebrate the spirit of togetherness, forgiveness,
+            and gratitude. Let's embrace the warmth of this festive season and
+            share in the blessings of love and peace.
           link_text: Sign Up Here
-          link_url: https://form.gov.sg/65ed5a53d31e7d0b531aad86
+          link_url: go.gov.sg/kbhariraya2024
 ---
