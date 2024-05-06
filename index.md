@@ -58,19 +58,17 @@ sections:
       id: announcements
       subtitle: Events calendar
       announcement_items:
-        - title: Kebun Baru Tamil New Year Celebration
-          date: 20 April 2024
-          announcement: Join us in celebrating the rich culture and traditions of the
-            Tamil community as we come together to welcome the new year with
-            joy, unity, and a renewed sense of hope.
+        - title: Kebun Baru CCC Mother's Day Outreach
+          date: 12 May 2024
+          announcement: Our Grassroots Adviser and volunteers will be distributing flowers
+            to commemorate and celebrate the love of Mother's Day at Mayflower
+            Market and Food Centre. No registrations required, come say hi!
+          link_text: ""
+          link_url: ""
+        - title: Kebun Baru Bestari RN Legal Sharing & LPA Endorsement
+          date: 16 June 2024
+          announcement: "Have you got your Lasting Power of Attonery (LPA) endorsed? Do it
+            at no costs incurred with Bestari RN. "
           link_text: Sign Up Here
-          link_url: go.gov.sg/tny24
-        - title: Kebun Baru Hari Raya Celebration
-          date: 27 April 2024
-          announcement: Join us in commemorating the joyous occasion of Hari Raya as we
-            come together to celebrate the spirit of togetherness, forgiveness,
-            and gratitude. Let's embrace the warmth of this festive season and
-            share in the blessings of love and peace.
-          link_text: Sign Up Here
-          link_url: go.gov.sg/kbhariraya2024
+          link_url: https://go.gov.sg/bestari2024
 ---
