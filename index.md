@@ -67,8 +67,8 @@ sections:
           link_url: ""
         - title: Kebun Baru Bestari RN Legal Sharing & LPA Endorsement
           date: 16 June 2024
-          announcement: "Have you got your Lasting Power of Attonery (LPA) endorsed? Do it
-            at no costs incurred with Bestari RN. "
+          announcement: Have you got your Lasting Power of Attonery (LPA) endorsed? Do it
+            at no costs incurred with Bestari RN.
           link_text: Sign Up Here
           link_url: https://go.gov.sg/bestari2024
 ---
