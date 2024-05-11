@@ -84,7 +84,7 @@ availability of vacancies.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mwsaackb@mws.sg" rel="noopener noreferrer nofollow" target="_blank">mwsaackb@mws.sg</a> 
+<p><a href="mailto:mwsaackb@mws.sg" rel="noopener noreferrer nofollow" target="_blank">mwsaackb@mws.sg</a>
 </p>
 </td>
 </tr>
@@ -127,7 +127,7 @@ availability of vacancies.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:susanpak@thkmc.org.sg" rel="noopener noreferrer nofollow" target="_blank">susanpak@thkmc.org.sg</a> 
+<p><a href="mailto:susanpak@thkmc.org.sg" rel="noopener noreferrer nofollow" target="_blank">susanpak@thkmc.org.sg</a>
 </p>
 </td>
 </tr>
