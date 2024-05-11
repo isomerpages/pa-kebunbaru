@@ -33,7 +33,7 @@ availability of vacancies.</p>
 <p>Contact</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>65116690</p>
+<p>65116690 / 89089357</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ availability of vacancies.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">refer2seniorservice@allkin.org.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">contactus@awwa.org.sg</a>
 </p>
 </td>
 </tr>
