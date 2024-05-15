@@ -43,7 +43,7 @@ sections:
       image: /images/volunteer_page.png
       alt: Image alt text
   - infopic:
-      title: "Outing to Gardens by the Bay "
+      title: Outing to Gardens by the Bay
       subtitle: "2024 local highlight #2"
       id: infopic
       description: Student volunteers from Eunoia Junior College joined seniors from
