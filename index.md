@@ -43,6 +43,17 @@ sections:
       image: /images/volunteer_page.png
       alt: Image alt text
   - infopic:
+      title: Outing to Gardens by the Bay
+      subtitle: "2024 local highlight #2"
+      id: infopic
+      description: Student volunteers from Eunoia Junior College joined seniors from
+        Blocks 115 and 257 for a heartwarming outing to Gardens by the Bay. See
+        their montage here!
+      button: Learn more
+      url: https://kebunbaru.pa.gov.sg/students-seniors-outing-to-gardens-by-the-bay/https://kebunbaru.pa.gov.sg/students-seniors-outing-to-gardens-by-the-bay/
+      image: /images/GBTB1.png
+      alt: Image alt text
+  - infopic:
       title: Finding My Way Home
       subtitle: "2024 local highlight #1"
       id: infopic
