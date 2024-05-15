@@ -58,13 +58,6 @@ sections:
       id: announcements
       subtitle: Events calendar
       announcement_items:
-        - title: Kebun Baru CCC Mother's Day Outreach
-          date: 12 May 2024
-          announcement: Our Grassroots Adviser and volunteers will be distributing flowers
-            to commemorate and celebrate the love of Mother's Day at Mayflower
-            Market and Food Centre. No registrations required, come say hi!
-          link_text: ""
-          link_url: ""
         - title: Kebun Baru Bestari RN Legal Sharing & LPA Endorsement
           date: 16 June 2024
           announcement: Have you got your Lasting Power of Attonery (LPA) endorsed? Do it
