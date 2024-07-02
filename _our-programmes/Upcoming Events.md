@@ -4,28 +4,27 @@ permalink: /our-programmes/upcoming-events/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Kebun Baru Tamil New Year Celebrations 2024</strong></h4>
-<p><strong>20 April 2024</strong>
+<h4><strong>Kebun Baru Family Day 2024</strong></h4>
+<p><strong>7 July 2024</strong>
 </p>
-<p>Happy Tamil New Year to all our friends and community members! 🎉✨ Join
-us in celebrating the rich culture and traditions of the Tamil community
-as we come together to welcome the new year with joy, unity, and a renewed
-sense of hope. Let's embrace the beauty of our heritage and create lasting
-memories as we mark this auspicious occasion. Sign up <a href="go.gov.sg/tny24" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Join us on 7 July for a day of fun and creativity at the Kebun Baru Family
+Day &amp; PAssionArts Festival 2024! Look forward to interactive art stations,
+sports and technology booths, stage performances, mass jamming, carnival
+games and delicious snacks. See you there!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Revised_Kebun_Baru_Family_Day_2024_Poster.png">
+</div>
+<p><strong>14 July 2024</strong>
+</p>
+<p>Take charge of your health with our functional screening event at Kebun
+Baru Community Club! Detect any common health issues early and join us
+for a morning dedicated to your health and well-being. See you there and
+let’s work together to build a healthier community!</p>
+<p>Register at <a href="http://go.gov.sg/14july24" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/14july24</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tamil_new_year.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/functional_screening.png">
 </div>
-<h3><strong>Kebun Baru Hari Raya Celebrations 2024</strong></h3>
-<p><strong>27 April 2024</strong>
+<p>Register at <a href="http://go.gov.sg/14july24" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/14july24</a>
 </p>
-<p>Selamat Hari Raya! 🌙✨ Join us in commemorating the joyous occasion of
-Hari Raya as we come together to celebrate the spirit of togetherness,
-forgiveness, and gratitude. Let's embrace the warmth of this festive season,
-share in the blessings of love and peace, and create cherished memories
-with our loved ones. Get your tickets <a href="go.gov.sg/kbhariraya2024" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAEC_Hari_Raya_Celebration___27_April_2024__1587_x_2245_px_.png">
-</div>
 <p></p>
