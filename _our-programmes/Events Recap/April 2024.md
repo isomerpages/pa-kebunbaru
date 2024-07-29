@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Events Recap
 ---
-<h3><strong>Edusave Merit Awards </strong></h3>
+<h3><strong>Edusave Merit Awards</strong></h3>
 <p>We celebrate the remarkable achievements of our young residents at the
 Edusave Merit Awards! These outstanding individuals have not only excelled
 in their studies but have also contributed to the school community. Their
