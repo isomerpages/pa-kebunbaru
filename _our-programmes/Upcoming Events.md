@@ -4,5 +4,5 @@ permalink: /our-programmes/upcoming-events/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h2><strong>Coming Soon!</strong></h2>
 <p></p>
