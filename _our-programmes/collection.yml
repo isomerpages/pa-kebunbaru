@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Upcoming Events.md
+      - Events Recap/August 2024.md
       - Events Recap/July 2024.md
       - Events Recap/June 2024.md
       - Events Recap/May 2024.md

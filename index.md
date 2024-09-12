@@ -64,21 +64,4 @@ sections:
       url: https://kebunbaru.pa.gov.sg/our-community/dementia-friendly-town/
       image: /images/dementia_video.png
       alt: Image alt text
-  - announcements:
-      title: Upcoming Events
-      id: announcements
-      subtitle: Events calendar
-      announcement_items:
-        - title: National Day Observance Ceremony
-          date: 09 August 2024
-          announcement: Join us to celebrate Singapore's 59th birthday! Have fun watching
-            performances and engaging in interactive arts and game booths.
-          link_text: More Information
-          link_url: https://kebunbaru.pa.gov.sg/our-programmes/upcoming-events/
-        - title: National Day Dinner
-          date: 17 August 2024
-          announcement: National Day festives are never over! Join us for a yummy dinner
-            with spectacular acts. Get your tickets now at Kebun Baru CC!
-          link_text: More Information
-          link_url: https://kebunbaru.pa.gov.sg/our-programmes/upcoming-events/
 ---
