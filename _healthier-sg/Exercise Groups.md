@@ -17,7 +17,12 @@ the <a href="https://www.healthhub.sg/programmes/healthyliving" rel="noopener no
 </div>
 <p></p>
 <h4>Chair Zumba</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,7 +59,12 @@ lower intensity focusing on balance, range of motion and coordination.</p>
 </tbody>
 </table>
 <h4>Kpopx Lite</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,7 +101,12 @@ it with aerobic and body training exercises.</p>
 </tbody>
 </table>
 <h4>Resistance Band</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -139,7 +154,12 @@ resistance bands.</p>
 </tbody>
 </table>
 <h4>Zumba Gold</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -231,7 +251,12 @@ intensity, focusing on balance, range of motion and coordination.</p>
 </tbody>
 </table>
 <h4>Line Dance</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -268,7 +293,12 @@ of steps in which a group of people dance in one or more rows.</p>
 </tbody>
 </table>
 <h4>Qigong</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -320,8 +350,13 @@ requires the interaction of breathing and concentration.</p>
 <p>These are exercise sessions held at the Kebun Baru Community Club and
 across the various Residents' Networks. For more enquiries, visit Kebun
 Baru CC or call Kebun Baru CC at 64577379.</p>
-<h4>Pickle Ball</h4>
-<table>
+<h4>Pickleball</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -359,7 +394,12 @@ ball and solid paddles to volley the ball over a low net.</p>
 </tbody>
 </table>
 <h4>Tea Dance</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -399,7 +439,12 @@ and relax.</p>
 </tbody>
 </table>
 <h4>Malay Dance</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -437,7 +482,12 @@ elements.</p>
 </tbody>
 </table>
 <h4>Briskwalk</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
