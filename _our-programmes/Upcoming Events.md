@@ -9,7 +9,7 @@ description: ""
 <br>
 <br>Join us for a fun and healthy morning at the <em>Kebun Baru Walk with Jack Neo’s brisk walk club, Papazao</em> on
 Sunday, 27 Oct 2024!</p>
-<p>📍 Assemble Point: Open field near Bishan MRT Exit B (behind Shake Shack)</p>
+<p>📍 Assembly Point: Open field near Bishan MRT Exit B (behind Shake Shack)</p>
 <p>What to expect:</p>
 <p>•A refreshing brisk walk with the Papazao team</p>
 <p>•Exciting stage performances by Papazao artistes</p>
