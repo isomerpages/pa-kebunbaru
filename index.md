@@ -21,6 +21,16 @@ sections:
           description: ""
           url: /about-us/our-social-media-channels/
   - infopic:
+      title: Kampung AWWA
+      subtitle: New Space for Connection
+      id: infopic
+      description: Right in the heart of Kebun Baru at 130 Ang Mo Kio Avenue 3,
+        Kampung AWWA stands as a beacon of community spirit, bringing residents
+        across estates closer.
+      button: More about Kampung AWWA
+      url: /kampung-awwa-new-space-for-connection-and-care/
+      image: /images/Photo_23_1_25__2_38_30_PM_min.png
+  - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
       id: infopic
