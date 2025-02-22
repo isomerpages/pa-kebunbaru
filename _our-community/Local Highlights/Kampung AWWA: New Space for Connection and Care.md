@@ -15,7 +15,6 @@ everyone.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="377px;" width="282px;" src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcTuPLmXcYFEV7V70HqXF-9Oxt-IVjRiJCM04YMtQPdHaz-F2r0ZivIAv-T9Dq-OVAm_zZ7YsXv-LPB6lX6F68978oRHee2Tq76BYHFd7gQg1pFPIV9vtUKmjcTshhNpKJBQzIu=nw?key=0-qXzqhftsyQmScVZWaIcRjG">
 </div>
-<p></p>
 <p>Residents can connect, enjoy leisure activities, stay active, and gain
 valuable skills to enhance their well-being—all while remaining deeply
 engaged with the community. Open Monday to Friday, from 8.30 am to 5.30
