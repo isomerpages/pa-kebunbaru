@@ -28,7 +28,7 @@ sections:
         Kampung AWWA stands as a beacon of community spirit, bringing residents
         across estates closer.
       button: More about Kampung AWWA
-      url: /kampung-awwa-new-space-for-connection-and-care/
+      url: https://kebunbaru.pa.gov.sg/kampung-awwa-new-space-for-connection-and-care/
       image: /images/Photo_23_1_25__2_38_30_PM_min.png
   - infopic:
       title: Hope Collective
