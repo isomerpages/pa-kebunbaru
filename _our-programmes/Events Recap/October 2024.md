@@ -39,3 +39,21 @@ to join us for health, fun, and the beautiful scenery in Kebun Baru.</p>
 <img style="width: 100%" height="220px;" width="294px;" src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUdE44_bcNxS5ZJ78khFWyZz17yhE4Cv2RGpp9mWdO4qDH51bTN0dBfIqKUwEGzikPLiBl2CKE6uIMw8eEI6PKrJ5tvb9iJg-MqudFZCLXFHHAOUVHQLYKe6tewBSMyzfLVXeVLMOnuIzjR8U_mK2807rCupZMKuw-EjQXnJjty0Pg=nw?key=NPhx0IvtqBAjWJDRuHCIrg">
 </div>
 <p></p>
+<h2><strong>Halloween Party at Thomson Hills RN</strong></h2>
+<p>Thomson Hills Residents’ Network Halloween Party on 26 October 2024 was
+a frightfully fun evening that united the community in a night of spooky
+celebrations. From imaginative costumes to thrilling games and delicious
+treats, residents of all ages fully embraced the Halloween spirit, making
+it a truly memorable event.</p>
+<p>The party’s success was a testament to the enthusiasm and community spirit
+of Thomson Hills residents. It was wonderful to see neighbours connecting,
+children enjoying the activities, and families creating cherished memories
+together.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_22_at_8_51_48_PM.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_02_22_at_8_51_04_PM.png">
+</div>
+<p></p>
