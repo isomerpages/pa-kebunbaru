@@ -20,6 +20,12 @@ sections:
         - title: Stay Connected
           description: ""
           url: /about-us/our-social-media-channels/
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: Kampung AWWA
       subtitle: New Space for Connection
