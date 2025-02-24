@@ -75,4 +75,9 @@ sections:
       url: https://kebunbaru.pa.gov.sg/our-community/dementia-friendly-town/
       image: /images/dementia_video.png
       alt: Image alt text
+  - infobar:
+      title: Disclaimer
+      id: infobar
+      description: Please note that this website is updated on a quarterly basis.
+        Content and information may be subject to change.
 ---
