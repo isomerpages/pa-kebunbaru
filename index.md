@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /about-us/our-social-media-channels/
   - infobar:
-      title: Exciting Updates from Kebun Baru
+      title: Exciting Updates
       id: infobar
       description: Click below to see our upcoming and past events.
       button: Our Events
