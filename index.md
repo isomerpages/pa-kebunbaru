@@ -36,7 +36,7 @@ sections:
       button: More about Kampung AWWA
       url: https://kebunbaru.pa.gov.sg/kampung-awwa-new-space-for-connection-and-care/
       image: /images/Photo_23_1_25__2_38_30_PM_min.png
-      alt: Image alt text
+      alt: Kampung AWWA
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
