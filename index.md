@@ -20,6 +20,12 @@ sections:
         - title: Stay Connected
           description: ""
           url: /about-us/our-social-media-channels/
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: Kampung AWWA
       subtitle: New Space for Connection
@@ -30,6 +36,7 @@ sections:
       button: More about Kampung AWWA
       url: https://kebunbaru.pa.gov.sg/kampung-awwa-new-space-for-connection-and-care/
       image: /images/Photo_23_1_25__2_38_30_PM_min.png
+      alt: Image alt text
   - infopic:
       title: Hope Collective
       subtitle: building an inclusive society
@@ -74,4 +81,9 @@ sections:
       url: https://kebunbaru.pa.gov.sg/our-community/dementia-friendly-town/
       image: /images/dementia_video.png
       alt: Image alt text
+  - infobar:
+      title: Disclaimer
+      id: infobar
+      description: Please note that this website is updated on a quarterly basis.
+        Content and information may be subject to change.
 ---
