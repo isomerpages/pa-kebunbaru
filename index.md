@@ -21,11 +21,11 @@ sections:
           description: ""
           url: /about-us/our-social-media-channels/
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      title: Exciting Updates from Kebun Baru
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: Click below to see our upcoming and past events.
+      button: Our Events
+      url: our-programmes/upcoming-events/
   - infopic:
       title: Kampung AWWA
       subtitle: New Space for Connection
