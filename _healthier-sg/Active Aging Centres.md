@@ -119,7 +119,7 @@ availability of vacancies.</p>
 <p>Contact</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64714270</p>
+<p>64599139</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ availability of vacancies.</p>
 <p>Email</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:susanpak@thkmc.org.sg" rel="noopener noreferrer nofollow" target="_blank">susanpak@thkmc.org.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">aac.amk257@thkmc.org.sg</a>
 </p>
 </td>
 </tr>
