@@ -4,9 +4,10 @@ title: Our Kebun Baru
 description: An Isomer site of the Singapore Government
 image: /images/kb logo (colour).png
 permalink: /
-notification: "-\tGovernment officials will never ask you to transfer money or
+notification: Government officials will never ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam."
+  Helpline at 1799 if you are unsure if something is a scam. <a
+  href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
       background: /images/website_landing_page__1200_x_630_px___1_.png
