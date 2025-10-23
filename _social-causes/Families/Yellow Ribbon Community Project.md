@@ -22,4 +22,5 @@ and reintegration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Yellow_ribbon_2.png">
 </div>
-<p>For more information, visit Yellow Ribbon's website <a href="https://www.yellowribbon.gov.sg/our-movement/volunteer-with-us" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For more information, visit Yellow Ribbon's website <a href="https://www.yellowribbon.gov.sg/yellow-ribbon-project/our-collaborations" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
