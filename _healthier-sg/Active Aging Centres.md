@@ -98,7 +98,7 @@ availability of vacancies.</p>
 </tr>
 </tbody>
 </table>
-<p>Find out more at their website <a href="https://www.mws.sg/active-ageing-centres/#location(s)" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Find out more at their website <a href="https://www.mws.sg/active-ageing-centres/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h5>THK AAC @ AMK 257</h5>
 <table style="minWidth: 50px">
 <colgroup>
