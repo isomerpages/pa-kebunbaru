@@ -25,4 +25,4 @@ a common community goal.</p>
 dedicate their time and effort to uplifting individuals and families in
 our community. Find out more about our Hope Collective programmes <a href="https://kebunbaru.pa.gov.sg/social-causes/children-and-youths/children-football/" rel="noopener noreferrer nofollow" target="_blank">here</a> and
 you may also sign up as a Community Volunteer to be a part of our team.</p>
-<p>Sign up as a Community Volunteer <a href="https://www.onepa.gov.sg/events/community-volunteers-needed--kebun-baru-co-71814060" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Sign up as a Community Volunteer <a href="https://form.gov.sg/675eb9632ac3cb5f8759ffc7" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
